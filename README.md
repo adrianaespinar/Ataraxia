@@ -24,6 +24,9 @@ Construir un espacio íntimo y propio donde volcar la creatividad, hacer un segu
 *    **Cosas que te suman VS Cosas que te restan ** Un apartado dedicado a cosas/actividades/personas, que te suman, rodeate de gente que te sume, nunca que te reste. Rodearse de buenas influencias es un gran cambio para mejorar.
 *    **Frase motivacional del dia** Frases para motivar tu dia y filosofar.
 *    ** Recomendación Canciones según el mood** Una ia que te recomiende canciones que tal vez te puedan ayudar en el día a día.
+*    ** Seguimiento de logros** Un recopilatorio de todo lo que has superado, lo que estás en proceso y lo que llevas menos adelantado.
+*    ** Listado de metas ** Un sitio dónde puedas apuntar todas tus metas, que incluya un subapartado para poder anotar como tienes pensado lograr tus propias metas, que puedas apuntar el proceso y los obstáculos que te encuentras por el camino.
+*    
 *    
 ---
 
