@@ -21,7 +21,8 @@ Construir un espacio íntimo y propio donde volcar la creatividad, hacer un segu
 *    **Soundtrack Emocional:** Panel superior de audio integrado para escuchar selecciones musicales mientras escribes y canalizas tus emociones al plasmar tus textos.
 *    **Cápsula del Tiempo de Logros:** Un widget o espacio dedicado en la web inteligente que rescata hitos del pasado (ej. *"Hace 1 año lograste X"*) para motivarte.
 *   **Actividades Propuestas para conectar con tu yo interior** Muchas veces nos metemos adentro en nuestro mundo, que olvidamos lo que más nos gusta hacer. O muchas otras veces, nos olvidamos de salir del mismo bule, este apartado te anima a probar cosas nuevas, salir de tu zona de confort.
-*    **Cosas que te suman VS Cosas que te restan ** Un apartado dedicado a cosas/actividades/personas, que te suman, rodeate de gente que te sume, nunca que te reste. Rodearse de buenas influencias es un gran cambio para mejorar. 
+*    **Cosas que te suman VS Cosas que te restan ** Un apartado dedicado a cosas/actividades/personas, que te suman, rodeate de gente que te sume, nunca que te reste. Rodearse de buenas influencias es un gran cambio para mejorar.
+*    **Frase motivacional del dia** Frases para motivar tu dia
 ---
 
 ##  Stack Tecnológico
