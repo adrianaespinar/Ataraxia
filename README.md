@@ -1,41 +1,39 @@
 # Ataraxia
-Project based on auto-reflexion and reminder of your life achievments . 
+Project based on auto-reflection and reminder of your life achievements. 
 
 #
 
-> *“No nos perturban las cosas, sino las opiniones que tenemos sobre las cosas.”* — Epicteto
+> *“We are disturbed not by things, but by the views which we take of things.”* — Epictetus
 
-Un búnker digital personal, privado y minimalista diseñado para el autoconocimiento, el registro constante de evolución y la gestión emocional. Este proyecto nace de la idea de que los cambios reales no esperan al 1 de enero ni a septiembre: empiezan hoy, en silencio y con constancia diaria.
-
----
-
-##  Propósito
-Construir un espacio íntimo y propio donde volcar la creatividad, hacer un seguimiento riguroso de hábitos y logros mediante un mapa de calor visual, y mantener la paz mental aplicando una perspectiva estoica y moderna. Sin licencias caras, sin dependencias comerciales, 100% hecho a medida.
+A personal, private, and minimalist digital bunker designed for self-knowledge, constant tracking of personal evolution, and emotional management. This project stems from the idea that real changes don't wait for January 1st or September: they start today, in silence and with daily consistency.
 
 ---
 
-##  Características Principales
-
-*    **Grid Anual de Contribuciones (Heatmap):** Una cuadrícula inspirada en GitHub que combina commits reales de programación con tus propios registros diarios de tareas, hábitos y metas completadas. Al pasar el cursor, que salga un breve listado de cosas o acontecimientos que hiciste. La información la saca del propio usuario que escribe que cosas ha logrado durante el día. 
-*    **Búnker Privado:** Sistema de acceso cerrado y seguro (con autenticación) para que solo tú tengas la llave de tus notas, reflexiones y sentimientos más profundos.
-*    **Soundtrack Emocional:** Panel superior de audio integrado para escuchar selecciones musicales mientras escribes y canalizas tus emociones al plasmar tus textos. 
-*    **Cápsula del Tiempo de Logros:** Un widget o espacio dedicado en la web inteligente que rescata hitos del pasado (ej. *"Hace 1 año lograste X"*) para motivarte. 
-*   **Actividades Propuestas para conectar con tu yo interior** Muchas veces nos metemos adentro en nuestro mundo, que olvidamos lo que más nos gusta hacer. O muchas otras veces, nos olvidamos de salir del mismo bule, este apartado te anima a probar cosas nuevas, salir de tu zona de confort.
-*    **Cosas que te suman VS Cosas que te restan ** Un apartado dedicado a cosas/actividades/personas, que te suman, rodeate de gente que te sume, nunca que te reste. Rodearse de buenas influencias es un gran cambio para mejorar.
-*    **Frase motivacional del dia** Frases para motivar tu dia y filosofar.
-*    ** Recomendación Canciones según el mood** Una ia que te recomiende canciones que tal vez te puedan ayudar en el día a día.
-*    ** Seguimiento de logros** Un recopilatorio de todo lo que has superado, lo que estás en proceso y lo que llevas menos adelantado.
-*    ** Listado de metas ** Un sitio dónde puedas apuntar todas tus metas, que incluya un subapartado para poder anotar como tienes pensado lograr tus propias metas, que puedas apuntar el proceso y los obstáculos que te encuentras por el camino.
-*    
-*    
----
-
-##  Stack Tecnológico
-*   **Frontend:** HTML5, CSS3 / Tailwind CSS (para una estética).
-*   **Lógica:** JavaScript (Vanilla JS) para dominar el DOM, la interactividad de la cuadrícula y la gestión de datos.
-*   **Almacenamiento / Backend:** Supabase / LocalStorage para mantener la privacidad absoluta de los datos.
-*   **Despliegue:** Vercel (PWA para acceso directo como app nativa en iOS y puede que Android).
-
+## Purpose
+To build an intimate, personal space to channel creativity, rigorously track habits and achievements using a visual heatmap, and maintain peace of mind through a modern stoic perspective. No expensive licenses, no commercial dependencies—100% custom-made.
 
 ---
-** C0d4ck was here**
+
+## Key Features
+
+* **Annual Contribution Grid (Heatmap):** A GitHub-inspired grid that combines real coding commits with your own daily logs of tasks, habits, and completed goals. Hovering over a square reveals a brief list of things or events you accomplished. The data is populated by you as you write down what you achieved during the day.
+* **Private Bunker:** A closed and secure access system (with authentication) so that only you hold the key to your deepest notes, reflections, and feelings.
+* **Emotional Soundtrack:** An integrated top audio panel to listen to curated music selections while you write and channel your emotions into your text.
+* **Achievement Time Capsule:** A smart widget or dedicated space on the web that rescues past milestones (e.g., *"1 year ago you achieved X"*) to keep you motivated.
+* **Proposed Activities to Connect with Your Inner Self:** Often, we get so caught up inside our own world that we forget what we love doing most. Or other times, we forget to break out of the same loop; this section encourages you to try new things and step out of your comfort zone.
+* **Things That Add Value VS Things That Drain You:** A section dedicated to things, activities, and people that add value to your life—surround yourself with people who uplift you, never those who drain you. Surrounding yourself with good influences is a massive step toward self-improvement.
+* **Motivational Quote of the Day:** Quotes to inspire your day and spark philosophical thought.
+* **Mood-Based Song Recommendations:** An AI feature that recommends songs to help you through your day-to-day life.
+* **Achievement Tracking:** A compilation of everything you've overcome, what you're currently working on, and what has less progress.
+* **Goal List:** A place where you can write down all your goals, including a subsection to note down how you plan to achieve them, track the process, and log obstacles you encounter along the way.
+
+---
+
+## Tech Stack
+* **Frontend:** HTML5, CSS3 / Tailwind CSS (for aesthetics).
+* **Logic:** JavaScript (Vanilla JS) for DOM manipulation, grid interactivity, and data management.
+* **Storage / Backend:** Supabase / LocalStorage to maintain absolute data privacy.
+* **Deployment:** Vercel (PWA for direct access as a native app on iOS and potentially Android).
+
+---
+**C0d4ck was here**
