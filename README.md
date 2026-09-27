@@ -26,6 +26,7 @@ To build an intimate, personal space to channel creativity, rigorously track hab
 * **Mood-Based Song Recommendations:** An AI feature that recommends songs to help you through your day-to-day life.
 * **Achievement Tracking:** A compilation of everything you've overcome, what you're currently working on, and what has less progress.
 * **Goal List:** A place where you can write down all your goals, including a subsection to note down how you plan to achieve them, track the process, and log obstacles you encounter along the way.
+* **Out of Confort:** A place outside the Index (that has a hyperlink in th Indec) that its space is dedicated to recommend the user activity, plans, recommendations so that the user thinks outside the box (probably an API will be conected to, to organize a content from a book that gives fully recomendations to do this activitiessss.)
 
 ---
 
